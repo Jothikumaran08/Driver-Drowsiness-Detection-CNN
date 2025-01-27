@@ -32,7 +32,7 @@ Installation
 
 Clone the repository:
 
-bashCopygit clone https://github.com/yourusername/Driver-Drowsiness-Detection-CNN.git
+bashCopygit clone https://github.com/Jothikumaran08/Driver-Drowsiness-Detection-CNN.git
 cd Driver-Drowsiness-Detection-CNN
 
 Create and activate conda environment:
